@@ -24,7 +24,7 @@ require "./common/func.php";
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
 </head>
 <body>
-<section>
+<section class="section_header">
     <header>
         <div class="toplink">
             <ul class="nav">
@@ -32,18 +32,20 @@ require "./common/func.php";
                 <li class="nav-item"><a href="#">ورود</a></li>
             </ul>
         </div>
-        <div class="">
-            <ul class="nav">
-                <li class="nav-item"><a href="#">VIP</a></li>
-                <li class="nav-item"><a href="#">فروشگاه</a></li>
-                <li class="nav-item"><a href="#">کودک</a></li>
-                <li class="nav-item"><a href="#">بانوان</a></li>
-                <li class="nav-item"><a href="#">آقایان</a></li>
-                <li class="nav-item"><a href="#">زیورآلات</a></li>
-            </ul>
-        </div>
-        <div class="logo">
-            <img src="">
+        <div class="left_header">
+            <div class="navbar">
+                <ul class="nav">
+                    <li class="nav-item"><a href="#" class="active">VIP</a></li>
+                    <li class="nav-item"><a href="#">فروشگاه</a></li>
+                    <li class="nav-item"><a href="#">کودک</a></li>
+                    <li class="nav-item"><a href="#">بانوان</a></li>
+                    <li class="nav-item"><a href="#">آقایان</a></li>
+                    <li class="nav-item"><a href="#">زیورآلات</a></li>
+                </ul>
+            </div>
+            <div class="logo">
+                <img src="./img/logo.png">
+            </div>
         </div>
     </header>
 </section>
