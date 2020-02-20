@@ -3,23 +3,6 @@
         <div class="col-md-12">
             <div class="site-header">
                 <div class="mini-header">
-                    <!--                    <div class="logout">-->
-
-                    <!--                        --><?php
-                    //                        if (isset( $_SESSION['display_name'] )) {
-                    //                            if (!$_SESSION['display_name'] == "") {
-                    //                                echo ('<a href="?&logout" class="hvr-buzz-out text-decoration-none">' . "LOGOUT" . '</a>');
-                    //                            }
-                    //                            if (isset( $_GET['logout'] )) {
-                    //                                session_destroy ();
-                    //                                unset( $_SESSION['login_user'] );
-                    //                                header ( 'location:login.php' );
-                    //                            }
-                    //                        }
-//                                             ?>
-
-                    <!--                    </div>-->
-                    <div class="container">
                         <div class="mini-header-center">
                             <div class="small-nav-mobile">
                                 <i style="color: orange;" class='icon-user'></i>
@@ -82,7 +65,6 @@
                                 </li>
                             </ul>
                         </div>
-                    </div>
                 </div>
                 <div class="mini-header-toggle" id="mini-header-toggle">
                 </div>
