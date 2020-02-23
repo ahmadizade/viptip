@@ -46,53 +46,79 @@
         </div>
     </header>
 
+    <!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ WAVE 2 WAVE 2 WAVE 2 WAVE 2 WAVE 2 WAVE 2 WAVE 2 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+    <!-- wave-decoration start -->
 
+    <!-- wave-decoration start -->
+    <div class="wave-decoration is-white-light ">
+        <!-- wave start -->
+        <svg width="100%" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+             x="0px" y="0px" viewBox="0 0 1998.1 109" style="enable-background:new 0 0 1998 109;" xml:space="preserve">
 
-
-
-
-
-        <!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ WAVE 2 WAVE 2 WAVE 2 WAVE 2 WAVE 2 WAVE 2 WAVE 2 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
-        <!-- wave-decoration start -->
-
-        <!-- wave-decoration start -->
-        <div class="wave-decoration is-white-light ">
-            <!-- wave start -->
-            <svg width="100%" height="109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1998.1 109" style="enable-background:new 0 0 1998 109;" xml:space="preserve">
-    <!--            <style type="text/css">-->
-    <!--                .st012 {-->
-    <!--                    opacity: 0.2;-->
-    <!--                    enable-background: new;-->
-    <!--                }-->
-    <!--                .st112 {-->
-    <!--                    opacity: 0.4;-->
-    <!--                    enable-background: new;-->
-    <!--                }-->
-    <!--            </style>-->
-                <path opacity="0.2" fill="#fff" class="st012" d="M-1,107.6c346,0.6,524.3,4.7,878.4-4.4c286.6-7.4,442.5-54,608.3-51.2c205.4,3.5,310.3,72.8,513.3,49.7V1.2L-1,1.7V107.6z"></path>
-                <path opacity="0.2" fill="#fff" class="st012" d="M1997.5,83.8c-251.3,30.8-441.2-38.7-499.9-52.4c-54.7-12.8-122.5-12-186.7,5.3c-154.2,41.6-315.5,70.9-475.2,67.5c-159.6-3.4-324.4-22.4-484.1-19.7C218.6,86.8,49,82.8-1,80.8C-1,59.5-1,1.1-1,1.1h1998.8L1997.5,83.8z"></path>
-                <path opacity="0.4" fill="#fff" class="st112" d="M-2,88.7c139.8,12.7,219.9,10.7,360.2,11.1c285.5,0.8,487.5-18.1,736.2-51.2C1351,14.4,1451.5,13.3,1799,76.2c58.9,10.6,140,8,200,1.3V0H-1.5L-2,88.7z"></path>
-                <path fill="#fff" d="M362.6,79.6c193.8-11.8,366.7-24.8,568.8-49.9c110.2-13.7,221.1-21.6,332.2-19.6c187,3.3,344.8,29.7,561.3,69.8c122.2,22.6,173.2,4,173.2,4V0H0v83.7C0,83.7,166.1,91.7,362.6,79.6z"></path>
+            <path opacity="0.2" fill="#fff" class="st012"
+                  d="M-1,107.6c346,0.6,524.3,4.7,878.4-4.4c286.6-7.4,442.5-54,608.3-51.2c205.4,3.5,310.3,72.8,513.3,49.7V1.2L-1,1.7V107.6z"></path>
+            <path opacity="0.2" fill="#fff" class="st012"
+                  d="M1997.5,83.8c-251.3,30.8-441.2-38.7-499.9-52.4c-54.7-12.8-122.5-12-186.7,5.3c-154.2,41.6-315.5,70.9-475.2,67.5c-159.6-3.4-324.4-22.4-484.1-19.7C218.6,86.8,49,82.8-1,80.8C-1,59.5-1,1.1-1,1.1h1998.8L1997.5,83.8z"></path>
+            <path opacity="0.4" fill="#fff" class="st112"
+                  d="M-2,88.7c139.8,12.7,219.9,10.7,360.2,11.1c285.5,0.8,487.5-18.1,736.2-51.2C1351,14.4,1451.5,13.3,1799,76.2c58.9,10.6,140,8,200,1.3V0H-1.5L-2,88.7z"></path>
+            <path fill="#fff"
+                  d="M362.6,79.6c193.8-11.8,366.7-24.8,568.8-49.9c110.2-13.7,221.1-21.6,332.2-19.6c187,3.3,344.8,29.7,561.3,69.8c122.2,22.6,173.2,4,173.2,4V0H0v83.7C0,83.7,166.1,91.7,362.6,79.6z"></path>
             </svg>
-            <!-- wave end -->
-        </div>
-        <!-- wave-decoration end -->
+        <!-- wave end -->
+    </div>
+    <!-- wave-decoration end -->
 
-        <!-- wave-decoration end -->
-        <!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ WAVE 2 WAVE 2 WAVE 2 WAVE 2 WAVE 2 WAVE 2 WAVE 2 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
-
-
-
-
-
-
+    <!-- wave-decoration end -->
+    <!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ WAVE 2 WAVE 2 WAVE 2 WAVE 2 WAVE 2 WAVE 2 WAVE 2 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 </section>
 
+<div class="fancybox_platform">
+    <div class="fancybox_signup">
+        <div class="fancy_header">
+            <h4>SignUp</h4>
+            <img src="./img/logo.png">
+        </div>
+        <div class="fancy_main">
+            <form class="mt-2" id="form" name="form" action="">
+                <div class="gender">
+                        <input id="rate0" class="check-object" type="radio" title="کاربر طلایی" name="rate"
+                               value="1">
+                        <label for="rate0" class="form-check-label font-weight-bold gold mr-2">مرد</label>
+                        <input id="rate1" class="check-object" type="radio" title="کاربر نقره ای"
+                               name="rate"
+                               value="2">
+                        <label for="rate1" class="form-check-label font-weight-bold silver mr-2">زن</label>
+                </div>
+
+                <div class="group-column">
+<!--                    <label class="font-weight-bold" for="user_name">نام</label>-->
+                    <input class="input" title="نام" type="text" name="user_name" id="user_name"
+                           placeholder="enter your name">
+
+<!--                    <label class="font-weight-bold" for="family">نام خانوادگی</label>-->
+                    <input class="input" title="نام خانوادگی" type="text" name="family" id="family"
+                           placeholder="enter your family">
+<!--                    <label class="font-weight-bold" for="email">رایانامه</label>-->
+                    <input class="input" title="رایانامه" type="email" name="email" id="email"
+                           placeholder="enter your email">
+<!--                    <label class="font-weight-bold" for="mobile">شماره تماس</label>-->
+                    <input class="input" title="شماره تماس" type="text" name="mobile" id="mobile"
+                           placeholder="mobile number">
+                </div>
 
 
+                    <button class="" id="submit" type="button" value="Submit">
+                        ثبت نام
+                    </button>
 
-
+            </form>
+        </div>
+        <div class="fancy_footer">
+            <p class="text-muted">لطفا مشخصات خود را با دقت وارد نمایید</p>
+        </div>
+    </div>
+</div>
 
 
 <script src="js/jquery-3.4.1.js"></script>
