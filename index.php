@@ -75,49 +75,87 @@
 
 <div class="fancybox_platform">
     <div class="fancybox_signup">
+        <button type="button" class="close" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
         <div class="fancy_header">
-            <h4>SignUp</h4>
+            <h4>SignOut</h4>
             <img src="./img/logo.png">
         </div>
         <div class="fancy_main">
             <form class="mt-2" id="form" name="form" action="">
                 <div class="gender">
-                        <input id="rate0" class="check-object" type="radio" title="کاربر طلایی" name="rate"
-                               value="1">
-                        <label for="rate0" class="form-check-label font-weight-bold gold mr-2">مرد</label>
-                        <input id="rate1" class="check-object" type="radio" title="کاربر نقره ای"
-                               name="rate"
-                               value="2">
-                        <label for="rate1" class="form-check-label font-weight-bold silver mr-2">زن</label>
+                    <input id="rate0" class="check-object" type="radio" title="کاربر طلایی" name="rate"
+                           value="1">
+                    <label for="rate0" class="form-check-label font-weight-bold gold mr-2">مرد</label>
+                    <input id="rate1" class="check-object" type="radio" title="کاربر نقره ای"
+                           name="rate"
+                           value="2">
+                    <label for="rate1" class="form-check-label font-weight-bold silver mr-2">زن</label>
                 </div>
 
                 <div class="group-column">
-<!--                    <label class="font-weight-bold" for="user_name">نام</label>-->
+                    <label class="font-weight-bold mt-4 text-white" for="user_name"><i class="icon-user"></i>نام</label>
                     <input class="input" title="نام" type="text" name="user_name" id="user_name"
-                           placeholder="enter your name">
+                    >
 
-<!--                    <label class="font-weight-bold" for="family">نام خانوادگی</label>-->
+                    <label class="font-weight-bold mt-4 text-white" for="family"><i class="icon-diamond"></i>نام
+                        خانوادگی</label>
                     <input class="input" title="نام خانوادگی" type="text" name="family" id="family"
-                           placeholder="enter your family">
-<!--                    <label class="font-weight-bold" for="email">رایانامه</label>-->
+                    >
+                    <label class="font-weight-bold mt-4 text-white" for="email"><i class="icon-vanak-email"></i>رایانامه</label>
                     <input class="input" title="رایانامه" type="email" name="email" id="email"
-                           placeholder="enter your email">
-<!--                    <label class="font-weight-bold" for="mobile">شماره تماس</label>-->
+                    >
+                    <label class="font-weight-bold mt-4 text-white" for="mobile"><i class="icon-phone2"></i>شماره
+                        تماس</label>
                     <input class="input" title="شماره تماس" type="text" name="mobile" id="mobile"
-                           placeholder="mobile number">
+                    >
                 </div>
 
-
-                    <button class="" id="submit" type="button" value="Submit">
+                <div class="signup_btn">
+                    <button class="btn vipbtn" id="submit" type="button" value="Submit">
                         ثبت نام
                     </button>
-
+                </div>
             </form>
         </div>
         <div class="fancy_footer">
-            <p class="text-muted">لطفا مشخصات خود را با دقت وارد نمایید</p>
+            <p>لطفا مشخصات خود را با دقت وارد نمایید</p>
         </div>
     </div>
+
+
+    <div class="fancybox_login">
+        <button type="button" class="close" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+        <div class="fancy_header">
+            <h4>SignIn</h4>
+            <img src="./img/logo.png">
+        </div>
+        <div class="fancy_main">
+            <form class="mt-2" id="form" name="form" action="">
+                <div class="group-column">
+                    <label class="font-weight-bold mt-4 text-white" for="user_name">نام</label>
+                    <input class="input" title="نام" type="text" name="user_name" id="user_name">
+                    <label class="font-weight-bold mt-4 text-white" for="family">نام خانوادگی</label>
+                    <input class="input" title="نام خانوادگی" type="text" name="family" id="family">
+                </div>
+                <div class="signup_btn">
+                    <button class="btn vipbtn" id="submit" type="button" value="Submit">
+                        ورود
+                    </button>
+                </div>
+            </form>
+        </div>
+        <div class="fancy_footer">
+            <input id="rate0" class="check-object" type="checkbox" title="کاربر طلایی" name="rate"
+                   value="1">
+            <label for="rate0" class="form-check-label font-weight-bold gold mr-2">Remember Me</label>
+        </div>
+    </div>
+
+
 </div>
 
 
