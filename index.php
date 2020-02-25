@@ -12,12 +12,12 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>VIPTIP</title>
-    <link rel="stylesheet" href="./css/bs/css/bootstrap.css">
-    <link rel="stylesheet" href="./css/style.css">
-    <link rel="stylesheet" href="./css/hover.css">
-    <link href="fonts/stylesheet.css" rel="stylesheet">
-    <link href="./css/fonts.css" rel="stylesheet">
-    <link href="./css/animate.css" rel="stylesheet">
+    <link rel="stylesheet" href="./public/css/bs/css/bootstrap.css">
+    <link rel="stylesheet" href="./public/css/style.css">
+    <link rel="stylesheet" href="./public/css/hover.css">
+    <link href="./public/fonts/stylesheet.css" rel="stylesheet">
+    <link href="./public/css/fonts.css" rel="stylesheet">
+    <link href="./public/css/animate.css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
 </head>
 <body>
@@ -41,7 +41,7 @@
                 </ul>
             </div>
             <div class="logo">
-                <img src="./img/logo.png">
+                <img src="./public/img/logo.png">
             </div>
         </div>
     </header>
@@ -80,7 +80,7 @@
         </button>
         <div class="fancy_header">
             <h4>SignOut</h4>
-            <img src="./img/logo.png">
+            <img src="./public/img/logo.png">
         </div>
         <div class="fancy_main">
             <form class="mt-2" id="form" name="form" action="">
@@ -131,7 +131,7 @@
         </button>
         <div class="fancy_header">
             <h4>SignIn</h4>
-            <img src="./img/logo.png">
+            <img src="./public/img/logo.png">
         </div>
         <div class="fancy_main">
             <form class="mt-2" id="form" name="form" action="">
@@ -155,13 +155,14 @@
         </div>
     </div>
 
+</div>
+<div class="comercial">
 
 </div>
 
-
-<script src="js/jquery-3.4.1.js"></script>
-<script src="js/jqueryapp.js"></script>
-<script src="./js/app.js"></script>
-<script src="./css/bs/js/bootstrap.js"></script>
+<script src="./public/js/jquery-3.4.1.js"></script>
+<script src="./public/js/jqueryapp.js"></script>
+<script src="./public/js/app.js"></script>
+<script src="./public/css/bs/js/bootstrap.js"></script>
 </body>
 </html>
