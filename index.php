@@ -123,8 +123,6 @@
             <p>لطفا مشخصات خود را با دقت وارد نمایید</p>
         </div>
     </div>
-
-
     <div class="fancybox_login">
         <button type="button" class="close" aria-label="Close">
             <span aria-hidden="true">&times;</span>
@@ -154,12 +152,41 @@
             <label for="rate0" class="form-check-label font-weight-bold gold mr-2">Remember Me</label>
         </div>
     </div>
-
 </div>
+
 <div class="comercial">
-
+    <h3>VipChap Compony</h3>
+    <h4>Best Online Logo Maker</h4>
+    <h5>Make Your Brand Bigger and Bigger</h5>
 </div>
 
+<section>
+    <div class="job_title_platform mt-3">
+        <div class="job_title">
+            <div class="circle">
+                <i class="icon-envelope"></i>
+            </div>
+            <div class="circle">
+                <i class="icon-bowling-ball"></i>
+            </div>
+            <div class="circle">
+                <i class="icon-dice"></i>
+            </div>
+            <div class="circle">
+                <i class="icon-image"></i>
+
+            </div>
+            <div class="circle">
+                <i class="icon-copyright"></i>
+
+            </div>
+            <div class="circle">
+                <i class="icon-vanak-instagram"></i>
+
+            </div>
+        </div>
+    </div>
+</section>
 <script src="./public/js/jquery-3.4.1.js"></script>
 <script src="./public/js/jqueryapp.js"></script>
 <script src="./public/js/app.js"></script>
