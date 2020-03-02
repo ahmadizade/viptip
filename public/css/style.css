@@ -255,6 +255,7 @@ svg:not(:root) {
 .group-column label > i {
     padding: 0 10px;
 }
+
 ::placeholder {
     color: white;
     opacity: 1; /* Firefox */
@@ -367,9 +368,9 @@ svg:not(:root) {
 }
 
 .circle:hover {
-    -webkit-box-shadow:inset 0px 4px 8px 1px rgba(0, 0, 0, 0.89);
-    -moz-box-shadow:inset 0px 4px 8px 1px rgba(0, 0, 0, 0.89);
-    box-shadow:inset 0px 4px 8px 1px rgba(0, 0, 0, 0.89);
+    -webkit-box-shadow: inset 0px 4px 8px 1px rgba(0, 0, 0, 0.89);
+    -moz-box-shadow: inset 0px 4px 8px 1px rgba(0, 0, 0, 0.89);
+    box-shadow: inset 0px 4px 8px 1px rgba(0, 0, 0, 0.89);
 }
 
 .circle > i {
@@ -378,7 +379,42 @@ svg:not(:root) {
 }
 
 
-
 /*+++++++++++++++++++++++++++++++++++++++++++++++++++ FancyBox ++++++++++++++++++++++++++++++++++++++++*/
+.cart_platform {
+    position: relative;
+    top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
 
+.cart {
+    position: relative;
+    max-width: 230px;
+    padding: 10px;
+    /*border: solid 1px #dedede;*/
 
+}
+
+.cart-header {
+    height: 150px;
+    overflow: hidden;
+}
+
+.cart-body {
+    background-color: #fff;
+    padding: 10px 0;
+    margin: 0;
+}
+
+.cart-footer {
+    padding: 5px 0;
+    background-color: #d6d6d6;
+}
+
+.cart-link {
+    margin-top: 10px;
+    float: right;
+    padding: 0 10px;
+}

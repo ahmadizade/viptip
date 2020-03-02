@@ -140,7 +140,7 @@ $(document).ready(function () {
 
         // http://localhost/crm/php/mysql.php?&job_list=drrgsdh&user_desc=Hamidrezadesc&design_user=sara&design=&_=1580999491851
 
-            var design_dataString = '&job_list=' + job_list + '&user_desc=' + user_desc + '&design_user=' + design_user + "&design=";
+        var design_dataString = '&job_list=' + job_list + '&user_desc=' + user_desc + '&design_user=' + design_user + "&design=";
 
         if (job_list == '' || user_desc == '' || design_user == '') {
             alert("پر کردن فیلد نام طرح و توضیحات آن اجباری است");

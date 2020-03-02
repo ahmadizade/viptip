@@ -24,6 +24,7 @@ function init() {
         $emput.innerText = res[2];
     }
 }
+
 //     var submit = document.getElementById('submit');
 //     submit.addEventListener("click", function () {
 //         var fancybox = document.getElementById("fancybox");
